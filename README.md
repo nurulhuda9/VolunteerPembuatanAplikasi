@@ -4,4 +4,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
 Berikut daftar Volunteer yang diterima :
-* Nurul Huda, [GitHub](https://github.com/rulhuda)
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id)
